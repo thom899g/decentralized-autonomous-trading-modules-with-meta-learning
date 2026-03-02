@@ -1,0 +1,2 @@
+# decentralized-autonomous-trading-modules-with-meta-learning
+**TITLE:** Decentralized Autonomous Trading Modules with Meta-Learning  **DESCRIPTION:**  This project introduces a novel ecosystem where specialized autonomous modules operate independently within a decentralized framework. Each module leverages meta-learning to evolve its strategies based on performance data, allowing it to adapt and improve with
